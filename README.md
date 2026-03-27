@@ -43,6 +43,18 @@ Assistant for chunking context data into manageable pieces
 
 Bot for automated context data generation
 
+### Context-Data-Programmatic
+
+[![Repository](https://img.shields.io/badge/Repo-Context--Data--Programmatic-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Context-Data-Programmatic)
+
+Programmatic context data generation and management
+
+### CONTEXT.md
+
+[![Repository](https://img.shields.io/badge/Repo-CONTEXT.md-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/CONTEXT.md)
+
+Notes, loader for project context as a single markdown file (method)
+
 ---
 
 #### Voice & Audio Context Pipelines
@@ -67,6 +79,35 @@ N8N workflow for processing voice notes into context
 ![POC](https://img.shields.io/badge/Type-POC-orange?style=flat-square)
 
 Model for audio-to-context processing
+
+### Voice-Note-Ragie-Pipeline
+
+[![Repository](https://img.shields.io/badge/Repo-Voice--Note--Ragie--Pipeline-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Voice-Note-Ragie-Pipeline)
+![POC](https://img.shields.io/badge/Type-POC-orange?style=flat-square)
+
+Test pipeline: voice context data to Ragie
+
+---
+
+#### Context Toolkits & Plugins
+
+### context-toolkit-plugin
+
+[![Repository](https://img.shields.io/badge/Repo-context--toolkit--plugin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/context-toolkit-plugin)
+
+A comprehensive toolkit implementing the CONTEXT.md workflow system for managing human-authored context and agent-ready briefings.
+
+### Claude-Code-Context-Toolkit
+
+[![Repository](https://img.shields.io/badge/Repo-Claude--Code--Context--Toolkit-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Context-Toolkit)
+
+Plugin for a structured human and AI context workflow in Claude Code
+
+### Split-Context-Setup
+
+[![Repository](https://img.shields.io/badge/Repo-Split--Context--Setup-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Split-Context-Setup)
+
+Slash command for setting up a split human-agent context system in Claude repos
 
 ---
 
@@ -114,6 +155,36 @@ Software preferences as AI context
 [![Repository](https://img.shields.io/badge/Repo-My--LLM--Context--Repo--Public-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/My-LLM-Context-Repo-Public)
 
 Public personal context repository for LLM interactions
+
+### Gallbladder-Surgery-Context
+
+[![Repository](https://img.shields.io/badge/Repo-Gallbladder--Surgery--Context-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Gallbladder-Surgery-Context)
+
+Consolidated context data about digestive health issues following gallbladder removal surgery
+
+### workstation-context-store
+
+[![Repository](https://img.shields.io/badge/Repo-workstation--context--store-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/workstation-context-store)
+
+Version-controlled context store for workstation Claude Code sessions
+
+### Key-Context-Data-Sets
+
+[![Repository](https://img.shields.io/badge/Repo-Key--Context--Data--Sets-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Key-Context-Data-Sets)
+
+Key context data sets for AI interactions
+
+### SRC-Context-Data
+
+[![Repository](https://img.shields.io/badge/Repo-SRC--Context--Data-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/SRC-Context-Data)
+
+Context data for SRC projects
+
+### SRC-Context-Pipeline
+
+[![Repository](https://img.shields.io/badge/Repo-SRC--Context--Pipeline-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/SRC-Context-Pipeline)
+
+Context processing pipeline for SRC projects
 
 ---
 
