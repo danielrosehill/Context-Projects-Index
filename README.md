@@ -233,4 +233,4 @@ Web interface for the Context-Cruncher tool
 
 ---
 
-**Note:** This is a focused index covering context management and processing for AI systems. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Github-Master-Index).
+**Note:** This is a focused index covering context management and processing for AI systems. For a higher-level collection of all repository indexes and other projects, see the [GitHub Master Index](https://github.com/danielrosehill/Start-Here).
